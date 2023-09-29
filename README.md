@@ -19,7 +19,7 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 🔭**Currently Working on :** a web site  
-🌱**Currently Learning :** Unity / C#  
+🌱**Currently Learning :** DSA / Opps Concept   
 💬**Ask me About :** Anything  
 📧**Contact Me :** <a href="mailto:theabhirupkumar@gmail.com">theabhirupkumar@gmail.com</a>  
 ⚡**Fun Fact :** I can Describe you in form of Code
