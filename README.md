@@ -18,7 +18,7 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-🔭**Currently Working on :** a web site  
+🔭**Currently Working on :** A Portfolio Web site  
 🌱**Currently Learning :** DSA / Opps Concept   
 💬**Ask me About :** Anything  
 📧**Contact Me :** <a href="mailto:theabhirupkumar@gmail.com">theabhirupkumar@gmail.com</a>  
