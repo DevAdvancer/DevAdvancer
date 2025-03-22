@@ -26,7 +26,7 @@
   <div align="left" width="45%">
     <h2>👨‍💻 About Me</h2>
     <ul>
-      <li>🎓 Pursuing B.Tech(Hons) in CSE at Adamas University (9.2/10 CGPA)</li>
+      <li>🎓 Pursuing B.Tech(Hons) in CSE at Adamas University (8.52/10 CGPA)</li>
       <li>💻 Backend Developer at Webdesert Technologies Pvt Ltd</li>
       <li>🏆 Solved 803 LeetCode problems (top 38,974 globally)</li>
       <li>🔐 Top 4% globally on TryHackMe for cybersecurity</li>
