@@ -30,7 +30,6 @@
       <li>💻 Backend Developer at Webdesert Technologies Pvt Ltd</li>
       <li>🏆 Solved 803 LeetCode problems (top 38,974 globally)</li>
       <li>🔐 Top 4% globally on TryHackMe for cybersecurity</li>
-      <li>🤖 Club Coordinator at Adamas Robotics And AI Club</li>
       <li>📚 Passionate about algorithms, system architecture & security</li>
     </ul>
   </div>
@@ -186,15 +185,6 @@
         Top 4% globally
         <br>
         Cybersecurity & SOC analyst 
-      </td>
-      <td align="center">
-        <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="80px" height="80px" alt="Leadership">
-        <br>
-        <strong>Tech Leadership</strong>
-        <br>
-        Robotics & AI Club Coordinator
-        <br>
-        Mentoring 200+ students
       </td>
     </tr>
   </table>
