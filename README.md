@@ -208,17 +208,17 @@
       <td align="center" width="200">
         <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="60" height="60" alt="Success"/>
         <br><strong>Code That Works</strong><br>
-        <img src="https://progress-bar.dev/15/?title=15%&width=120&color=green" alt="Success Rate"/>
+        <img src="https://progress-bar.xyz/80/?title=Success+Rate&width=120&color=00ff00" alt="Success Rate"/>
       </td>
       <td align="center" width="200">
         <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="60" height="60" alt="Bugs"/>
         <br><strong>Bugs Created</strong><br>
-        <img src="https://progress-bar.dev/85/?title=85%&width=120&color=red" alt="Bug Rate"/>
+        <img src="https://progress-bar.xyz/85/?title=Bug+Rate&width=120&color=ff0000" alt="Bug Rate"/>
       </td>
       <td align="center" width="200">
         <img src="https://media.giphy.com/media/24S6K4lfKwHBu/giphy.gif" width="60" height="60" alt="Coffee"/>
         <br><strong>Coffee Dependency</strong><br>
-        <img src="https://progress-bar.dev/100/?title=100%&width=120&color=brown" alt="Coffee Rate"/>
+        <img src="https://progress-bar.xyz/100/?title=Coffee+Rate&width=120&color=964B00" alt="Coffee Rate"/>
       </td>
     </tr>
   </table>
