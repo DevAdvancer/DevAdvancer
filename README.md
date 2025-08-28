@@ -324,16 +324,16 @@
         <br>
         <strong>📚 Learning</strong>
         <br>
-        Advanced malware analysis
+        Flutter & Swift & Swift UI
         <br>
-        <sub>Progress: 67%</sub>
+        <sub>Progress: 45%</sub>
       </td>
       <td align="center" width="33%">
         <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100px" alt="Building"/>
         <br>
         <strong>🛠️ Building</strong>
         <br>
-        Next.js portfolio site
+        Next.js Project Management System
         <br>
         <sub>Status: "It works on my machine"</sub>
       </td>
@@ -342,7 +342,7 @@
         <br>
         <strong>🔍 Hunting</strong>
         <br>
-        APT threats in the wild
+        API threats in the wild
         <br>
         <sub>Threat Level: High</sub>
       </td>
@@ -403,7 +403,7 @@
 <!-- Visitor Counter with Humor -->
 <div align="center">
   <h3>🚀 Profile Stalkers Counter</h3>
-  <img src="https://profile-counter.glitch.me/devadvancer/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=devadvancer&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Count" />
   <br>
   <sub>Don't worry, I won't tell anyone you were here! 😉</sub>
 </div>
