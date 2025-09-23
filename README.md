@@ -29,7 +29,7 @@
 
 <!-- Brief intro with humor -->
 <h3 align="center">🤓 Professional Bug Creator & Accidental Feature Developer</h3>
-<h4 align="center">⚡ Turning coffee into code since 2020 ⚡</h4>
+<h4 align="center">⚡ Turning coffee into code since 2022 ⚡</h4>
 
 <p align="center">
   <a href="https://abhirupkumar.in"><img src="https://img.shields.io/badge/Website-abhirupkumar.in-4285F4?style=flat-square&logo=google-chrome&logoColor=white"/></a>
@@ -44,7 +44,7 @@
   <div align="left" width="50%">
     <h2>👨‍💻 About Me (The Honest Version)</h2>
     <ul>
-      <li>🎓 B.Tech(Hons) CSE at Adamas University (8.52/10 CGPA) <em>*mostly attending*</em></li>
+      <li>🎓 B.Tech(Hons) CSE at Adamas University (8.72/10 CGPA) <em>*mostly attending*</em></li>
       <li>💻 Backend Developer at Webdesert Technologies <em>*professional debugger*</em></li>
       <li>🏆 Solved 803 LeetCode problems <em>*cried during 200 of them*</em></li>
       <li>🔐 Top 4% on TryHackMe <em>*basically a cyber ninja*</em></li>
