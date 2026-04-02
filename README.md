@@ -3,14 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e72fc,100:ad1deb&height=200&section=header&text=Abhirup%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Code%20Wizard%20|%20Bug%20Slayer%20|%20Coffee%20Addict&descAlignY=60&descAlign=50" width="100%" />
 </div>
 
-<!-- Funny ASCII Art -->
-<pre align="center">
-    ┌─┐┌─┐┌┬┐┌─┐  ┌─┐┌┐┌┌┬┐  ┌─┐┬ ┬┌┐ ┌─┐┬─┐
-    │  │ │ ││├┤   ├─┤│││ ││  │  └┬┘├┴┐├┤ ├┬┘
-    └─┘└─┘─┴┘└─┘  ┴ ┴┘└┘─┴┘  └─┘ ┴ └─┘└─┘┴└─
-            (Powered by caffeine and panic)
-</pre>
-
 <!-- Profile views counter and social badges -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=devadvancer&style=for-the-badge&color=blueviolet" alt="Profile Views" />
